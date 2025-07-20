@@ -23,7 +23,7 @@
 
 ### explanation of the task
 # codealpha_tasks
-#codealpha # blackchain
+#codealpha # blockchain
 
 
 ###TASK-1
