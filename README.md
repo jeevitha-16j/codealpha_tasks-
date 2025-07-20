@@ -1,22 +1,28 @@
 **about me**
-👋 Hi, I’m jeevitha-16j
+👋 Hi, I’m jeevitha-16J
+
 👀 I’m interested in ...
+
 🌱 I’m currently learning ...
+
 💞️ I’m looking to collaborate on ...
+
 📫 How to reach me ...
+
 😄 Pronouns: ...
+
 ⚡ Fun fact: ...
 
 
 
-
+.........................................
 
 
 
 
 
 ### explanation of the task
-# codealpha_tasks-
+# codealpha_tasks
 #codealpha # blackchain
 
 
